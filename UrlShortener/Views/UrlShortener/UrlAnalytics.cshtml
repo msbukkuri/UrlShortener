@@ -1,0 +1,35 @@
+﻿@model IEnumerable<UrlShortener.Models.UrlShortenerModel>
+@{
+    ViewBag.Title = "UrlAnalytics";
+}
+<h2>
+    UrlAnalytics</h2>
+<table>
+    <thead>
+        <tr>
+            <td>
+                Full Url
+            </td>
+            <td>
+                Short Url
+            </td>
+            <td>
+                Shorten Count
+            </td>
+        </tr>
+    </thead>
+    @foreach (var model in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayTextFor(modelItem => model.FullUrl)
+            </td>
+            <td>
+                @Html.DisplayTextFor(modelItem => model.ShortUrl)
+            </td>
+            <td>
+                @Html.DisplayTextFor(modelItem => model.ShortenCount)
+            </td>
+        </tr>
+    }
+</table>

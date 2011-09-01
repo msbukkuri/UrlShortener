@@ -1,0 +1,90 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/f:Web.config" caret="1473" fromTop="31" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/f:Global.asax.cs" caret="1004" fromTop="31" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:HomeController.cs" caret="439" fromTop="19" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Models/f:UrlShortenerModel.cs" caret="389" fromTop="16" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Views/d:UrlShortener/f:GenerateShortUrl.cshtml" caret="882" fromTop="15" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:UrlShortenerController.cs" caret="1491" fromTop="47" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Views/d:UrlShortener/f:GenerateShortUrl.cshtml" caret="900" fromTop="24" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Views/d:UrlShortener/f:GenerateShortUrl.cshtml" caret="882" fromTop="15" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:UrlShortenerController.cs" caret="2559" fromTop="39" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:UrlShortenerController.cs" caret="2553" fromTop="39" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:UrlShortenerController.cs" caret="2527" fromTop="7" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:UrlShortenerController.cs" caret="2553" fromTop="15" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:UrlShortenerController.cs" caret="2553" fromTop="10" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:UrlShortenerController.cs" caret="2553" fromTop="19" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:UrlShortenerController.cs" caret="1990" fromTop="21" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:UrlShortenerController.cs" caret="1845" fromTop="13" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:UrlShortenerController.cs" caret="914" fromTop="23" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:UrlShortenerController.cs" caret="1594" fromTop="16" />
+      <File id="88E08D35-8526-465B-9038-2B35BB951E92/d:Controllers/f:UrlShortenerController.cs" caret="1710" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="string" priority="255" />
+      <Item value="int" priority="95" />
+      <Item value="set" priority="31" />
+      <Item value="Initialize`0" priority="31" />
+      <Item value="Random`0" priority="31" />
+      <Item value="new" priority="94" />
+      <Item value="n" priority="31" />
+      <Item value="ResolveLinks`0" priority="32" />
+      <Item value="ShortenUrl`0" priority="32" />
+      <Item value="foreach" priority="63" />
+      <Item value="short" priority="31" />
+      <Item value="charString" priority="63" />
+      <Item value="Base62ToString`0" priority="26" />
+      <Item value="fullUrl" priority="414" />
+      <Item value="return" priority="31" />
+      <Item value="shortUrl" priority="31" />
+      <Item value="fixed" priority="63" />
+      <Item value="if" priority="63" />
+      <Item value="HttpContext" priority="31" />
+      <Item value="var" priority="31" />
+      <Item value="in" priority="31" />
+      <Item value="for" priority="31" />
+      <Item value="rebuiltString" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="80" />
+      <Item value="Remove`0" priority="26" />
+      <Item value="StartsWith`0" priority="26" />
+      <Item value="Substring`0" priority="80" />
+      <Item value="EndsWith`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt64`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

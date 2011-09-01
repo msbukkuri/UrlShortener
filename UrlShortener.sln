@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShortener", "UrlShortener\UrlShortener.csproj", "{88E08D35-8526-465B-9038-2B35BB951E92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShortener.Tests", "UrlShortener.Tests\UrlShortener.Tests.csproj", "{E3662C25-1356-4278-AC85-8BDDBB032E43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E08D35-8526-465B-9038-2B35BB951E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E08D35-8526-465B-9038-2B35BB951E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E08D35-8526-465B-9038-2B35BB951E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E08D35-8526-465B-9038-2B35BB951E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3662C25-1356-4278-AC85-8BDDBB032E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3662C25-1356-4278-AC85-8BDDBB032E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3662C25-1356-4278-AC85-8BDDBB032E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3662C25-1356-4278-AC85-8BDDBB032E43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
